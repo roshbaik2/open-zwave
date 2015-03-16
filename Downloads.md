@@ -1,0 +1,1 @@
+Downloads are available at [http://www.openzwave.com/downloads/](http://www.openzwave.com/downloads/)
